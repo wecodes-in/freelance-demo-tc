@@ -6,7 +6,7 @@ export default function App() {
       
       <div className="flex gap-4">
         <a
-          href="/docs/privacy-policy.docx"
+          href="/docs/privacy-policy.doc"
           download
           className="px-6 py-3 bg-blue-600 text-white rounded-lg font-semibold shadow-md hover:bg-blue-700 transition"
         >
@@ -14,7 +14,7 @@ export default function App() {
         </a>
 
         <a
-          href="/docs/terms-of-service.docx"
+          href="/docs/terms-of-service.doc"
           download
           className="px-6 py-3 bg-green-600 text-white rounded-lg font-semibold shadow-md hover:bg-green-700 transition"
         >
